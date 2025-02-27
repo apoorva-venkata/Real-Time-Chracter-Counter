@@ -1,1 +1,1 @@
-# Chracter-Counter
+# Character-Counter
