@@ -1,1 +1,1 @@
-# Real-Time-Chracter-Counter
+# Chracter-Counter
